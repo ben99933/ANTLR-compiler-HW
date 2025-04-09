@@ -1,0 +1,6 @@
+.idea/
+*.tar.gz
+/*/*.tar.gz
+/*/*.tar.xz
+/*/*.docx
+/*/*.sh
